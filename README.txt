@@ -1,6 +1,6 @@
 Here is a simple code which will run TicTacToe using Python 3.7
 
-Required packages are Tkinter and Random, both of which come with standard releases of python. otherwise each script is entirely standalone
+Required packages are Tkinter, math, and Random, all of which come with standard releases of python. otherwise each script is entirely standalone
 
 I have included 4 versions of the game here with steady progress between each version
 
